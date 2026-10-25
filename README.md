@@ -17,6 +17,20 @@
 <br>
 
 <div align="center">
+  <img src="https://imgur.com/imq6bKw.gif" width="200">
+</div>
+
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+  <br>
+
+<div align="center">
 
 <table>
   <tr>
@@ -73,7 +87,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://imgur.com/imq6bKw.gif" width="200">
-</div>
