@@ -9,17 +9,16 @@
 
 <br>
 <br>
+<div align="center">
+  <img src="https://imgur.com/imq6bKw.gif" width="200">
+</div>
+
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4908&pause=496&color=8C19FF&center=true&vCenter=true&width=900&height=75&lines=I'm+a+Brazilian+tech+enthusiast+%F0%9F%87%A7%F0%9F%87%B7;I'm+a+student+of+Systems+Analysis+and+Development.;I%E2%80%99m+currently+focused+on+web+development.;Always+learning%2C+always+building!" alt="Typing SVG"/>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://imgur.com/imq6bKw.gif" width="200">
-</div>
-
 
 <details align="center">  
   <summary>
