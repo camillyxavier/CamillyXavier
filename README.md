@@ -1,16 +1,74 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=9e36c5&textBg=false"/>
 
-<!--
-**camillyxavier/CamillyXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <samp>
+      Hi there! I'm Camilly Xavier De Souza
+      <br>
+  </samp>
+</div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAnaVihPersi&s=25&c=9e36c5&bg=00000000&no=2&ff=digii&tb=Visits%3A&ta=" /></p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://imgur.com/imq6bKw.gif" width="200">
+</div>
 
-Here are some ideas to get you started:
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4908&pause=496&color=8C19FF&center=true&vCenter=true&width=900&height=75&lines=I'm+a+Brazilian+tech+enthusiast+%F0%9F%87%A7%F0%9F%87%B7;I'm+a+student+of+Systems+Analysis+and+Development.;I%E2%80%99m+currently+focused+on+web+development.;Always+learning%2C+always+building!"alt="Typing SVG"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camillyxavier&theme=midnight_purple&animation=rise)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camillyxavier&theme=midnight_purple&animation=rise)
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=camillyxavier&theme=midnight_purple&animation=rise)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camillyxavier&theme=midnight_purple&animation=rise&utcOffset=0)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camillyxavier&theme=midnight_purple&animation=rise)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=camillyxavier&theme=midnight-purple&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center" style="display: inline_block"><br>
+
+<div align="center">
+
+[![Static Badge](https://img.shields.io/badge/GMAIL-%238A2BE2?style=flat&logo=gmail&logoColor=white)](mailto:xcamilly20@gmail.com)
+[![Static Badge](https://img.shields.io/badge/INSTAGRAM-%238A2BE2?style=flat&logo=INSTAGRAM&logoColor=white)](https://www.instagram.com)
+[![Static Badge](https://img.shields.io/badge/LINKEDIN-%238A2BE2?style=flat&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/)
+
+</div>
+
+<div align="center">
+  <b>
+      Languages ​​and Technologies
+  </b>
+  <br>
+
+<br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+
+</div>
+
+<br>
+
+<div align="center" style="display: inline_block"><br>
+
