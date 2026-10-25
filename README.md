@@ -74,12 +74,6 @@
 
 <br>
 
-<div align="center" style="display: inline_block"><br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAnaVihPersi&s=25&c=9e36c5&bg=00000000&no=2&ff=digii&tb=Visits%3A&ta=" /></p>
-</div>
-
 <div align="center">
   <img src="https://imgur.com/imq6bKw.gif" width="200">
 </div>
