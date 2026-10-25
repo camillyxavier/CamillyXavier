@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAnaVihPersi&s=25&c=9e36c5&bg=00000000&no=2&ff=digii&tb=Visits%3A&ta=" /></p>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Gatinho digitando no computador">
 </div>
 
 <br>
